@@ -1,4 +1,4 @@
-# go-frontend-vue
+# vue-js-build
 
 ## Project setup
 ```
